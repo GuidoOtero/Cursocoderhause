@@ -2,7 +2,7 @@
 padding: 0;}
 
 body{background-color:  rgb(10, 10, 24);
-overflow: auto;}
+    overflow-x: hidden;}
 
 
 #body{
@@ -135,7 +135,9 @@ grid-template-columns: auto;
 text-align: center;
 }
 
-
+body{background-color:  rgb(10, 10, 24);
+    width:100%;
+    overflow-x: hidden;}
 }
 
 
