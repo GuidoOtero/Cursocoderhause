@@ -73,10 +73,12 @@ height: 30px;}
 }
 
 .carousel-item{width: 30%;
-height: 50%;
+height: 50%
 
 }
 
+.imgcontenedora{display: flex;
+justify-content: center;}
 
 #footer{grid-area: footer;}
 
